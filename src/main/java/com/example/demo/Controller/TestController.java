@@ -15,8 +15,8 @@ public class TestController {
     /**
      * @return health check to determine if server is up and running
      */
-    @GetMapping("/api/v2")
+    @GetMapping("/api/v1")
     public ResponseEntity health() {
-        return new ResponseEntity("Helathy2", HttpStatus.OK);
+        return new ResponseEntity("Healthy", HttpStatus.OK);
     }
 }
