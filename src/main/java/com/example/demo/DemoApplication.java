@@ -8,6 +8,11 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class DemoApplication {
 
+	/**
+	 * To check if string is palindrome or not
+	 * @param inputString
+	 * @return true / false if string is palindrome or not respectively
+	 */
 	public static boolean isPalindrome(String inputString) {
 		if (inputString.length() == 0) return true;
 		else {

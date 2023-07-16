@@ -2,5 +2,5 @@ projectKey=kdu-automation-project-key
 serverUrl=http://localhost:9000
 serverVersion=9.9.1.69595
 dashboardUrl=http://localhost:9000/dashboard?id=kdu-automation-project-key
-ceTaskId=AYlTL0-rGRk4fgRehORD
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlTL0-rGRk4fgRehORD
+ceTaskId=AYlTMCpFGRk4fgRehORE
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlTMCpFGRk4fgRehORE
