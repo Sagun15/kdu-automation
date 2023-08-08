@@ -22,7 +22,7 @@ class DemoApplicationTests {
 	@Test
 	public void whenPalindrom_thenAccept() {
 		// Arrange
-		String palindrome = "noon";
+		String palindrome = "non";
 
 		// Act
 		boolean result = DemoApplication.isPalindrome(palindrome);
