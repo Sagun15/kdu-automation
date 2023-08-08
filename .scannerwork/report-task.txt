@@ -1,6 +1,0 @@
-projectKey=sagun15-exercise-3-backend
-serverUrl=http://52.66.250.171:9000
-serverVersion=10.1.0.73491
-dashboardUrl=http://52.66.250.171:9000/dashboard?id=sagun15-exercise-3-backend
-ceTaskId=AYnVIkHo4ojb7SErA6PO
-ceTaskUrl=http://52.66.250.171:9000/api/ce/task?id=AYnVIkHo4ojb7SErA6PO
