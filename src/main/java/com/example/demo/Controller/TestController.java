@@ -13,7 +13,7 @@ public class TestController {
 
 
     /**
-     * @return health check to determine if server is up and running (Healthy / Unhealthy).
+     * @return health check to determine if server is up and running (Healthy / Unhealthy)
      */
     @GetMapping("/api/v1")
     public ResponseEntity health() {
