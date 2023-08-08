@@ -20,7 +20,7 @@ class DemoApplicationTests {
 	}
 
 	@Test
-	public void whenPalindrome_thenAccept() {
+	public void whenPalindrom_thenAccept() {
 		// Arrange
 		String palindrome = "noon";
 
@@ -32,7 +32,7 @@ class DemoApplicationTests {
 	}
 
 	@Test
-	public void whenNearPalindrome_thenReject(){
+	public void whenNearPalindrom_thenReject(){
 		// Arrange
 		String palindrome = "neon";
 
