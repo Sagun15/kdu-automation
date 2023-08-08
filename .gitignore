@@ -13,7 +13,7 @@ sonar-project.properties
 .settings
 .springBeans
 .sts4-cache
-.scannerwork
+.scannerwork/*
 
 ### IntelliJ IDEA ###
 .idea
