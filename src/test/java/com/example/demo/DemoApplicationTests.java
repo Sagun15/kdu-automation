@@ -20,9 +20,9 @@ class DemoApplicationTests {
 	}
 
 	@Test
-	public void whenPalindrom_thenAccept() {
+	public void whenPalindrome_thenAccept() {
 		// Arrange
-		String palindrome = "non";
+		String palindrome = "noon";
 
 		// Act
 		boolean result = DemoApplication.isPalindrome(palindrome);
@@ -32,7 +32,7 @@ class DemoApplicationTests {
 	}
 
 	@Test
-	public void whenNearPalindrom_thenReject(){
+	public void whenNearPalindrome_thenReject(){
 		// Arrange
 		String palindrome = "neon";
 
